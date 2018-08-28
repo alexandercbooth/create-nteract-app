@@ -1,3 +1,4 @@
+:warning: create-nteract-app has moved [here](https://github.com/nteract/create-nteract-app).
 # create-nteract-app
 
 ## Installation
